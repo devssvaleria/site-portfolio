@@ -1,2 +1,3 @@
-# site-portifolio
-Esse é um projeto de portfólio com HTML, CCS e Javascript.
+# Bem vindo ao curso git e github
+Nesse curso você vai dominar tudo de git e git hub do zero ao profissonal.
+
